@@ -46,7 +46,6 @@ I explore and analyze mechanisms like AMFI, SIP/CSR, Mach, kernel memory protect
 ---
 
 ## ⚡ Fun Fact
-- I work clean and focused, without relying on alcohol or shortcuts  
 - Strong believer in understanding systems deeply before attempting exploits  
 
 ---
